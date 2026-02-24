@@ -1,0 +1,5 @@
+# No Facebook API keys needed for this version!
+# The app uses RSS feeds directly.
+
+# Server port
+PORT=3001
